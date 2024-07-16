@@ -7,18 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jonhenry Poss</copyright>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jonhenryposs/tags/exampletagone/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example</title>
-      <link>http://localhost:1313/jonhenryposs/example/hosting-deployment/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/jonhenryposs/example/hosting-deployment/</guid>
-      <description>Indtroduction Example 1 Example 2 Introduction #Example 1 #Example Text
-Example 2 #Example Text</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/example/hosting-deployment/featured.jpg" />
-    </item>
-    
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jonhenryposs/tags/exampletagone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Electric Mountainboard</title>
       <link>http://localhost:1313/jonhenryposs/projects/boat/</link>
