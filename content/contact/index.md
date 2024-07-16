@@ -1,7 +1,7 @@
 ---
 title: "Contact Me"
 weight: 1
-draft: true
+draft: false
 description: "Example Description"
 date: 2024-01-25
 slug: "contact"

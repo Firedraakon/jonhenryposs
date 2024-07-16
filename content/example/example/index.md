@@ -5,7 +5,7 @@ draft: true
 description: "Example Description"
 date: 2024-01-25
 slug: "hosting-deployment"
-tags: ["exampletagone", "exampletag2"]
+tags: []
 layout: "simple"
 ---
 
