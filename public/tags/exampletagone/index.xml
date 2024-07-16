@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exampletagone on Jonhenry Poss</title>
+    <link>http://localhost:1313/jonhenry_website/tags/exampletagone/</link>
+    <description>Recent content in Exampletagone on Jonhenry Poss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Jonhenry Poss</copyright>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jonhenry_website/tags/exampletagone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>http://localhost:1313/jonhenry_website/example/hosting-deployment/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/jonhenry_website/example/hosting-deployment/</guid>
+      <description>Indtroduction Example 1 Example 2 Introduction #Example 1 #Example Text
+Example 2 #Example Text</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenry_website/example/hosting-deployment/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Electric Mountainboard</title>
+      <link>http://localhost:1313/jonhenry_website/projects/boat/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/jonhenry_website/projects/boat/</guid>
+      <description>Introduction Deck Battery Battery Box All the Metal Riding and Testing Introduction #The sidewalks of MIT are not exactly smooth enough for normal skateboarding. This however, the BOAT has 10 in tires and independent suspension to handle the lunar landscape that are the streets of Cambridge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenry_website/projects/boat/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

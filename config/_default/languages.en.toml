@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Jonhenry Poss"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/Hookwp.jpg"
+  description = "Mechanical Engineer and Fabricator"
+
+[author]
+  name = "Jonhenry Poss"
+  image = "img//WeldingJonhenry.jpg"
+  headline = "Mechanical Engineer and Fabricator"
+  bio = "Mechanical Engineer and Fabricator"
+  #links = [
+   # { x-twitter = "https://twitter.com/burufugu" },
+    #{ github = "https://github.com/nunocoracao/blowfish" },
+  #]

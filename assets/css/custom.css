@@ -1,0 +1,61 @@
+
+/* Increase the default font size */
+html {
+    font-size: 14pt;
+    font-family: 'Roboto', sans-serif; /* Example custom font */
+    font-weight: bold;
+    color: #333333;
+    padding: 12x;
+  }
+
+  .blue-highlight {
+    background-color: #718290; /* Darker blue-gray color */
+    color: #333333; /* Grey text color */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.blue-divider {
+    border: none;
+    border-top: 2px solid #718290; /* Darker blue-gray color */
+    margin: 20px 0;
+}
+
+.bold-divider {
+    border: none;
+    border-top: 4px solid #718290; /* Darker blue-gray color */
+    margin: 30px 0; /* Increased margin for spacing */
+}
+.project {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+
+.project img {
+    width: 200px; /* Adjust as needed */
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.project-description {
+    max-width: 600px; /* Adjust as needed */
+}
+
+.project-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.project-link {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #007bff; /* Link color */
+    text-decoration: none;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}

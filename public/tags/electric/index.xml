@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electric on Jonhenry Poss</title>
+    <link>http://localhost:1313/jonhenry_website/tags/electric/</link>
+    <description>Recent content in Electric on Jonhenry Poss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Jonhenry Poss</copyright>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jonhenry_website/tags/electric/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jawa Babetta Moped Electrification </title>
+      <link>http://localhost:1313/jonhenry_website/projects/babetta/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/jonhenry_website/projects/babetta/</guid>
+      <description>Table of Contents:
+Introduction Design Motor Mod Front Sprocket Battery Battery Box In Action Introduction #In a fit of boredom while writing my thesis, I bought a moped. Specifically, a broken Jawa Babetta 210.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenry_website/projects/babetta/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
