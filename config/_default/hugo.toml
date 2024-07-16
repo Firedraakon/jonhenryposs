@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://Firedraakon.github.io/jonhenry_website"
+baseURL = "https://firedraakon.github.io/jonhenryposs"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
