@@ -23,7 +23,7 @@ I am a graduate of MIT in Mechanical Engineering at MIT, former west coast comme
 
 <span color = "#333333">
 
-[Resume](Jonhenry_Poss_Resume.pdf)
+[Download Resume](Jonhenry_Poss_Resume.pdf)
 </span>
 </span>
 {{< screenshot src="jonhenry.jpg" alt="" >}}
