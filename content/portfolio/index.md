@@ -12,13 +12,20 @@ layout: "single"
 <hr class="bold-divider">
 
 
-
 <div class="blue-highlight">
 
 ## About
 
+
 I am a graduate of MIT in Mechanical Engineering at MIT, former west coast commercial fisherman, and current Formlabs test engineer. I've been building machines of all sorts for as long as I can remember and I'm especially interested in combining my interest in mechanical engineering and ocean technology.
 
+<span style="font-size: 24px;">
+
+<span color = "#333333">
+
+[Resume](Jonhenry_Poss_Resume.pdf)
+</span>
+</span>
 {{< screenshot src="jonhenry.jpg" alt="" >}}
 ---
 <span style="font-size: 14px;">

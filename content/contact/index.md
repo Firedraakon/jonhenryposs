@@ -14,7 +14,7 @@ layout: "single"
 
 Looking to hire? Want to chat about engineering? Contact me here: 
 
-<form action="https://formspree.io/f/mgvwvnqo}" method="POST">
+<form action="https://formspree.io/f/mgvwvnqo" method="POST">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br>
   <label for="email">Email:</label><br>
