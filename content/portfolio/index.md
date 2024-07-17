@@ -6,7 +6,7 @@ description: "Hire Me"
 date: 2024-07-16
 slug: "portfolio"
 tags: []
-layout: "single"
+layout: "simple"
 ---
 
 <hr class="bold-divider">
@@ -17,7 +17,7 @@ layout: "single"
 ## About
 
 
-I am a graduate of MIT in Mechanical Engineering at MIT, former west coast commercial fisherman, and current Formlabs test engineer. I've been building machines of all sorts for as long as I can remember and I'm especially interested in combining my interest in mechanical engineering and ocean technology.
+I am a graduate of MIT in Mechanical Engineering, former west coast commercial fisherman, and current Formlabs test engineer. I've been building machines of all sorts for as long as I can remember and I'm especially interested in combining my interest in mechanical engineering and ocean technology.
 
 <span style="font-size: 24px;">
 
@@ -42,14 +42,6 @@ Soft Artificial Muscles,” IEEE Robotics and Automation Letters, July 2022
   [MIT Sea Grant](https://seagrant.mit.edu/)
 ---
 
-### Areas of Interest
-- Additive and Subtractive Manufacturing
-- Marine Engineering
-- Robotics
-- Electric Vehicles
-- Hydrofoils
-- High Vacuum
----
 
 ### Employment
 - Test Engineer at Formlabs (Current)

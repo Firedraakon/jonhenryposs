@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Blowfish! :tada: on Jonhenry Poss</title>
-    <link>http://localhost:1313/jonhenryposs/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to Blowfish! :tada: on Jonhenry Poss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jonhenry Poss</copyright>
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jonhenryposs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/jonhenryposs/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/portfolio/</guid>
+      <guid>http://localhost:1313/portfolio/</guid>
       <description>About #I am a graduate of MIT in Mechanical Engineering at MIT, former west coast commercial fisherman, and current Formlabs test engineer. I&amp;rsquo;ve been building machines of all sorts for as long as I can remember and I&amp;rsquo;m especially interested in combining my interest in mechanical engineering and ocean technology.</description>
       
     </item>
     
     <item>
       <title>Vases</title>
-      <link>http://localhost:1313/jonhenryposs/sideprojects/vases/</link>
+      <link>http://localhost:1313/sideprojects/vases/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/sideprojects/vases/</guid>
+      <guid>http://localhost:1313/sideprojects/vases/</guid>
       <description>Explanation #I like plants. Also, these were a good way to push myself making organic shapes in parametric CAD. All models were designed in Onshape and printed on Formlabs printers</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/sideprojects/vases/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sideprojects/vases/featured.jpg" />
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>http://localhost:1313/jonhenryposs/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Looking to hire? Want to chat about engineering? Contact me here:
 Name:
 Email:
@@ -43,55 +43,55 @@ Message:</description>
     
     <item>
       <title>Example</title>
-      <link>http://localhost:1313/jonhenryposs/example/hosting-deployment/</link>
+      <link>http://localhost:1313/example/hosting-deployment/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/example/hosting-deployment/</guid>
+      <guid>http://localhost:1313/example/hosting-deployment/</guid>
       <description>Indtroduction Example 1 Example 2 Introduction #Example 1 #Example Text
 Example 2 #Example Text</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/example/hosting-deployment/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/example/hosting-deployment/featured.jpg" />
     </item>
     
     <item>
       <title>Jawa Babetta Moped Electrification </title>
-      <link>http://localhost:1313/jonhenryposs/projects/babetta/</link>
+      <link>http://localhost:1313/projects/babetta/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/projects/babetta/</guid>
+      <guid>http://localhost:1313/projects/babetta/</guid>
       <description>Table of Contents:
 Introduction Design Motor Mod Front Sprocket Battery Battery Box In Action Introduction #In a fit of boredom while writing my thesis, I bought a moped. Specifically, a broken Jawa Babetta 210.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/projects/babetta/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/babetta/featured.jpg" />
     </item>
     
     <item>
       <title>Uno Electric Unicycle</title>
-      <link>http://localhost:1313/jonhenryposs/projects/unicycle/</link>
+      <link>http://localhost:1313/projects/unicycle/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/projects/unicycle/</guid>
+      <guid>http://localhost:1313/projects/unicycle/</guid>
       <description>Introduction Design Machining 3D Printing Electronics Tuning Switching Gears: New Electronics Ryobification Introduction #I fell in love with electric unicycles after spontaneously buying a broken Segway Ninebot Z10 on craigslist and fixing it up.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/projects/unicycle/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/unicycle/featured.jpg" />
     </item>
     
     <item>
       <title>Snowtercycle</title>
-      <link>http://localhost:1313/jonhenryposs/projects/snowtercycle/</link>
+      <link>http://localhost:1313/projects/snowtercycle/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/projects/snowtercycle/</guid>
+      <guid>http://localhost:1313/projects/snowtercycle/</guid>
       <description>Table of Contents:
 Introduction Design Front Suspension Triple Clamp Electronics In Action Introduction #MITERS has a long tradition of building scooters and road vehicles that fail quickly once the first snow falls in Boston.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/projects/snowtercycle/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/snowtercycle/featured.jpg" />
     </item>
     
     <item>
       <title>Electric Mountainboard</title>
-      <link>http://localhost:1313/jonhenryposs/projects/boat/</link>
+      <link>http://localhost:1313/projects/boat/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/projects/boat/</guid>
+      <guid>http://localhost:1313/projects/boat/</guid>
       <description>Introduction Deck Battery Battery Box All the Metal Riding and Testing Introduction #The sidewalks of MIT are not exactly smooth enough for normal skateboarding. This however, the BOAT has 10 in tires and independent suspension to handle the lunar landscape that are the streets of Cambridge.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/projects/boat/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/boat/featured.jpg" />
     </item>
     
   </channel>

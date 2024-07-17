@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snow on Jonhenry Poss</title>
-    <link>http://localhost:1313/jonhenryposs/tags/snow/</link>
+    <link>http://localhost:1313/tags/snow/</link>
     <description>Recent content in Snow on Jonhenry Poss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jonhenry Poss</copyright>
-    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jonhenryposs/tags/snow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/snow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snowtercycle</title>
-      <link>http://localhost:1313/jonhenryposs/projects/snowtercycle/</link>
+      <link>http://localhost:1313/projects/snowtercycle/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/projects/snowtercycle/</guid>
+      <guid>http://localhost:1313/projects/snowtercycle/</guid>
       <description>Table of Contents:
 Introduction Design Front Suspension Triple Clamp Electronics In Action Introduction #MITERS has a long tradition of building scooters and road vehicles that fail quickly once the first snow falls in Boston.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/projects/snowtercycle/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/snowtercycle/featured.jpg" />
     </item>
     
   </channel>

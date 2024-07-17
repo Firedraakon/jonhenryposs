@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Side Projects on Jonhenry Poss</title>
-    <link>http://localhost:1313/jonhenryposs/sideprojects/</link>
+    <link>http://localhost:1313/sideprojects/</link>
     <description>Recent content in Side Projects on Jonhenry Poss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jonhenry Poss</copyright>
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/jonhenryposs/sideprojects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/sideprojects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vases</title>
-      <link>http://localhost:1313/jonhenryposs/sideprojects/vases/</link>
+      <link>http://localhost:1313/sideprojects/vases/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/jonhenryposs/sideprojects/vases/</guid>
+      <guid>http://localhost:1313/sideprojects/vases/</guid>
       <description>Explanation #I like plants. Also, these were a good way to push myself making organic shapes in parametric CAD. All models were designed in Onshape and printed on Formlabs printers</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jonhenryposs/sideprojects/vases/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sideprojects/vases/featured.jpg" />
     </item>
     
   </channel>
