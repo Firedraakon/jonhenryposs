@@ -2,20 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exampletag2 on Jonhenry Poss</title>
-    <link>http://localhost:1313/tags/exampletag2/</link>
+    <link>http://localhost:61728/tags/exampletag2/</link>
     <description>Recent content in Exampletag2 on Jonhenry Poss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jonhenry Poss</copyright>
-    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/exampletag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:61728/tags/exampletag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>http://localhost:61728/example/hosting-deployment/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:61728/example/hosting-deployment/</guid>
+      <description>Indtroduction Example 1 Example 2 Introduction #Example 1 #Example Text
+Example 2 #Example Text</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:61728/example/hosting-deployment/featured.jpg" />
+    </item>
+    
     <item>
       <title>Electric Mountainboard</title>
-      <link>http://localhost:1313/projects/boat/</link>
+      <link>http://localhost:61728/projects/boat/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/boat/</guid>
+      <guid>http://localhost:61728/projects/boat/</guid>
       <description>Introduction Deck Battery Battery Box All the Metal Riding and Testing Introduction #The sidewalks of MIT are not exactly smooth enough for normal skateboarding. This however, the BOAT has 10 in tires and independent suspension to handle the lunar landscape that are the streets of Cambridge.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/boat/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:61728/projects/boat/featured.jpg" />
     </item>
     
   </channel>

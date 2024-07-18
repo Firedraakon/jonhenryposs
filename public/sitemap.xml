@@ -3,73 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>http://localhost:61728/portfolio/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sideprojects/vases/</loc>
+    <loc>http://localhost:61728/sideprojects/vases/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:61728/contact/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/example/hosting-deployment/</loc>
+    <loc>http://localhost:61728/example/hosting-deployment/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/babetta/</loc>
+    <loc>http://localhost:61728/projects/babetta/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/unicycle/</loc>
+    <loc>http://localhost:61728/projects/unicycle/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/snowtercycle/</loc>
+    <loc>http://localhost:61728/projects/snowtercycle/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/boat/</loc>
+    <loc>http://localhost:61728/projects/boat/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/sideprojects/</loc>
+    <loc>http://localhost:61728/sideprojects/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:61728/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/example/</loc>
+    <loc>http://localhost:61728/example/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:61728/projects/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

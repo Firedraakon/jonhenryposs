@@ -11,7 +11,7 @@ layout: "simple"
 
 <hr class="bold-divider">
 
-- [Introduction](#introduction)
+- [Indtroduction](#introduction)
 - [Design](#design)
 - [Machining](#machining)
 - [3D Printing](#3d-printing)

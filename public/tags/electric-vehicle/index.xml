@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electric Vehicle on Jonhenry Poss</title>
-    <link>http://localhost:1313/tags/electric-vehicle/</link>
+    <link>http://localhost:61728/tags/electric-vehicle/</link>
     <description>Recent content in Electric Vehicle on Jonhenry Poss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jonhenry Poss</copyright>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/electric-vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:61728/tags/electric-vehicle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jawa Babetta Moped Electrification </title>
-      <link>http://localhost:1313/projects/babetta/</link>
+      <link>http://localhost:61728/projects/babetta/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/babetta/</guid>
+      <guid>http://localhost:61728/projects/babetta/</guid>
       <description>Table of Contents:
 Introduction Design Motor Mod Front Sprocket Battery Battery Box In Action Introduction #In a fit of boredom while writing my thesis, I bought a moped. Specifically, a broken Jawa Babetta 210.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/babetta/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:61728/projects/babetta/featured.jpg" />
     </item>
     
     <item>
       <title>Uno Electric Unicycle</title>
-      <link>http://localhost:1313/projects/unicycle/</link>
+      <link>http://localhost:61728/projects/unicycle/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/unicycle/</guid>
-      <description>Introduction Design Machining 3D Printing Electronics Tuning Switching Gears: New Electronics Ryobification Introduction #I fell in love with electric unicycles after spontaneously buying a broken Segway Ninebot Z10 on craigslist and fixing it up.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/unicycle/featured.jpg" />
+      <guid>http://localhost:61728/projects/unicycle/</guid>
+      <description>Indtroduction Design Machining 3D Printing Electronics Tuning Switching Gears: New Electronics Ryobification Introduction #I fell in love with electric unicycles after spontaneously buying a broken Segway Ninebot Z10 on craigslist and fixing it up.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:61728/projects/unicycle/featured.jpg" />
     </item>
     
     <item>
       <title>Snowtercycle</title>
-      <link>http://localhost:1313/projects/snowtercycle/</link>
+      <link>http://localhost:61728/projects/snowtercycle/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/snowtercycle/</guid>
+      <guid>http://localhost:61728/projects/snowtercycle/</guid>
       <description>Table of Contents:
 Introduction Design Front Suspension Triple Clamp Electronics In Action Introduction #MITERS has a long tradition of building scooters and road vehicles that fail quickly once the first snow falls in Boston.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/snowtercycle/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:61728/projects/snowtercycle/featured.jpg" />
     </item>
     
   </channel>
