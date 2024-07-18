@@ -19,6 +19,8 @@ layout: "single"
 
 I am a graduate of MIT in Mechanical Engineering at MIT, former west coast commercial fisherman, and current Formlabs test engineer. I've been building machines of all sorts for as long as I can remember and I'm especially interested in combining my interest in mechanical engineering and ocean technology.
 
+[Download Resume](Jonhenry_Poss_Resume.pdf)
+
 {{< screenshot src="jonhenry.jpg" alt="" >}}
 ---
 <span style="font-size: 14px;">
@@ -48,6 +50,9 @@ Soft Artificial Muscles,” IEEE Robotics and Automation Letters, July 2022
 - Test Engineer at Formlabs (Current)
 - Mechanical Engineer Intern at Indigo Tech (June - August 2021)
 - Deckhand on Westpack (off and on, 2019-2020)
+
+
+[Download Resume](Jonhenry_Poss_Resume.pdf)
 
 </span>
 
