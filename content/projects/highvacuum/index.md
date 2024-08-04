@@ -27,12 +27,12 @@ layout: "simple"
 
 {{< columns >}}
 ###
-I've always tended to collect pumps. I'm not entirely sure what motivates my interests in fluid moving devices, but having a large collection of pumps on hand has often been useful. Creating a high vacuum environment, that is down to somewhere around \\(1.31578947 × 10^-8\\) atmospheres, is something of the ultimate challenge in pumping. Down past \\(10^-3\\) torr or so, gas stops behaving like fluid and starts behaving like a bunch of particles bouncing around without ever touching each other and pumping has to get a bit more creative. There's also the issue of offgassign, where something like a fingerprint or a material with low vapor pressure like tin or most plastics evaporates enough to affect the vacuum.
+I've always tended to collect pumps. I'm not entirely sure what motivates my interests in fluid moving devices, but having a large collection of pumps on hand has often been useful. Creating a high vacuum environment, that is down to somewhere around \\(1.31578947 × 10^{-8}\\) atmospheres, is something of the ultimate challenge in pumping. Down past \\(10^{-3}\\) torr or so, gas stops behaving like fluid and starts behaving like a bunch of particles bouncing around without ever touching each other and pumping has to get a bit more creative. There's also the issue of offgassign, where something like a fingerprint or a material with low vapor pressure like tin or most plastics evaporates enough to affect the vacuum.
 
 <!--divider-->
 
 ###
-That said, high vacuum is useful for a variety of experiments. Creating metalic coating through physical vapor deposition (more on that later), creating nonreative environments for high voltage equipment, etc all require high vacuum. I already had a surprising collection of vacuum equipment on hand, so when my friend Chris suggested we do some high vacuum projects I said I had just the thing.
+That said, high vacuum is useful for a variety of experiments. Creating metallic coating through physical vapor deposition (more on that later), creating nonreactive environments for high voltage equipment, etc all require high vacuum. I already had a surprising collection of vacuum equipment on hand, so when my friend Chris suggested we do some high vacuum projects I said I had just the thing.
 {{< /columns >}}
 
 {{< screenshot src="featured.jpg" alt="Example image description" >}}
@@ -56,7 +56,7 @@ Turbo pumps are the most expensive part of this projects. I had four. Two from a
 Roughing pumps aren't nearly as expensive or hard to find as turbo pumps, but they aren't cheap either. Fortunately, I had one on hand abandoned in MITERS. I strapped it on my bike and took it home. My bike frame isn't really up to having a 60lbs weight on the back, but it got the job done
 {{< screenshot src="IMG_20231022_135723681.jpg" alt="pump on bike" >}}
 
-This pump worked, but it was a bit leaky and didn't have any sort of protections against pulling all the oil into the rest of the system if it lost power. Within a week, I got a text telling me there were two abandoned Edwards Rotary Vane pumps abandoned in a loading dock. All I had was my bicyce, so another 60+lbs pump went on the bike...
+This pump worked, but it was a bit leaky and didn't have any sort of protections against pulling all the oil into the rest of the system if it lost power. Within a week, I got a text telling me there were two abandoned Edwards Rotary Vane pumps abandoned in a loading dock. All I had was my bicycle, so another 60+lbs pump went on the bike...
 This was a much nicer pump but had an interesting sharpie inscription: "IS BORK PLZ FIX FREE"
 
 {{< screenshot src="IMG_20231209_151849655_HDR.jpg" alt="borked pump" >}}
@@ -94,14 +94,14 @@ graph TD
 
 {{< columns >}}
 ###
-- Roughing Pump: Edwards Rotary Vane Pump brings the system down to around \\(10^-3\\) Torr
-- Oil Trap: Prevents oil vapor from making it from the rooughing pump into the rest of the chamber. Basically just a fancy holder for dessicant.
+- Roughing Pump: Edwards Rotary Vane Pump brings the system down to around \\(10^{-3}\\) Torr
+- Oil Trap: Prevents oil vapor from making it from the roughing pump into the rest of the chamber. Basically just a fancy holder for dessicant.
 - Pirani Gauge: uses the thermal conductivity of gas to determine pressure. Only good down to rough vacuum.
 - Vacuum Valve: pneumatically actuated valves with stainless steel belows for sealing. Allows the vacuum chamber to be isolated from the roughing pump. This way the turbo pump can be kept at vacuum to maintain cleanliness.
 <!--divider-->
 
 ###
-- Turbo Pump: takes the system down to (theoretically) around \\(10^-7)\\ Torr, practicaly gets me down to around \\(5e-5\\) Torr. Must be run in vacuum.
+- Turbo Pump: takes the system down to (theoretically) around \\(10^{-7})\\ Torr, practicaly gets me down to around \\(5e-5\\) Torr. Must be run in vacuum.
 - Vent: allows for slow venting of the chamber
 - Cold Cathode Gauge: must be operated in vacuum, but good for measuring pressures down into high vacuum
 {{< /columns >}}
@@ -204,7 +204,7 @@ The top aluminum plate I machined at MITERS on a manual mill on a rotary table. 
 
 ---
 ### HIGH CURRENT
-Power is supplied to the pvd chamber by a rewound microwave transformer. This takes the ~120V ac coming in from the wall and steps it down to only a few volts at very high current. A variac controls the voltage coming in to the microwave trasnformer. 
+Power is supplied to the pvd chamber by a rewound microwave transformer. This takes the ~120V ac coming in from the wall and steps it down to only a few volts at very high current. A variac controls the voltage coming in to the microwave transformer. 
 
 {{< gallery >}}
   <img src="images/PXL_20240804_161836133.MP.jpg" class="grid-w100" />
