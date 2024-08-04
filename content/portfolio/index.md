@@ -67,6 +67,7 @@ Soft Artificial Muscles,” IEEE Robotics and Automation Letters, July 2022
   <div class="project-description">
     <div class="project-title">High Vacuum System</div>
     <p>I'm running an Alcatel rotary vane roughing pump and an Edwards turbo pump. The system is run through a raspberry pi that controls pumps and pneumatic valves that control the vacuum valves. The goal is to be able to remotely pump down the system and record sensory data on the pi. This is part of an ongoing project to build night vision goggle (NVG) tubes. NVG tubes are under vacuum and require a metal coating on glass photomultiplier discs. Currently the system is able to do physical vapor deposition (PVD). </p>
+    <a class="project-link" href="/projects/highvacuum/">Learn more about this project</a>
   </div>
 </div>
 

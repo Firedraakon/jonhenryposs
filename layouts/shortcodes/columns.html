@@ -1,0 +1,9 @@
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; padding: 10px;">
+      {{ (index (split .Inner "<!--divider-->") 0) | markdownify }}
+    </div>
+    <div style="flex: 1; padding: 10px;">
+      {{ (index (split .Inner "<!--divider-->") 1) | markdownify }}
+    </div>
+  </div>
+  
