@@ -17,7 +17,7 @@ layout: "single"
 
 ## About
 
-I am a graduate of MIT in Mechanical Engineering at MIT, former west coast commercial fisherman, and current Formlabs test engineer. I've been building machines of all sorts for as long as I can remember and I'm especially interested in combining my interest in mechanical engineering and ocean technology.
+Graduated MIT in 2023 in Mechanical Engineering, former West Coast commercial fisherman, and current Formlabs Hardware engineer. I’ve been building machines of all sorts for as long as I can remember and I’m especially interested in combining my interest in mechanical engineering and ocean technologies.
 
 [Download Resume Here](Jonhenry_Poss_Resume_2024.pdf)
 
