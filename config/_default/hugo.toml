@@ -10,9 +10,10 @@ disableLanguages = [] #to allow translation work requiring shipping to productio
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 100
 summaryLength = 30
 hasCJKLanguage = true
+
+ignoreLogs = ['warning-partial-superfluous-prefix']
 
 buildDrafts = false
 buildFuture = false
@@ -34,6 +35,9 @@ googleAnalytics = "G-PEDMYR1V0K"
   changefreq = 'always'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[pagination]
+  pagerSize = 100
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
