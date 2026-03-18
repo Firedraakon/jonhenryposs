@@ -59,3 +59,17 @@ html {
 .project-link:hover {
     text-decoration: underline;
 }
+
+/* Ensure gallery images flow correctly and stay responsive */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.gallery img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

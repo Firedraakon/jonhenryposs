@@ -23,8 +23,8 @@ Finally got around to going ice fishing this year. Built myself a battery box fo
 <hr class="blue-divider">
 
 {{< gallery >}}
- <img src="Ice.jpg" class="grid-w50" />
- <img src="Ice2.jpg" class="grid-w50" />
- <img src="Ice3.jpg" class="grid-w50" />
- <img src="Ice4.jpg" class="grid-w50" />
+ <img src="ice.jpg" class="grid-w50" />
+ <img src="ice2.jpg" class="grid-w50" />
+ <img src="ice3.jpg" class="grid-w50" />
+ <img src="ice4.jpg" class="grid-w50" />
 {{< /gallery >}}

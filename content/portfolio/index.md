@@ -47,7 +47,9 @@ Soft Artificial Muscles,” IEEE Robotics and Automation Letters, July 2022
 ---
 
 ### Employment
-- Test Engineer at Formlabs (Current)
+- Founding Mechanical Engineer at Manhattan Technologies (2025 - Present)
+- Mechanical Engineer at Formlabs (2025)
+- Test Engineer at Formlabs (2023-2025)
 - Mechanical Engineer Intern at Indigo Tech (June - August 2021)
 - Deckhand on Westpack (off and on, 2019-2020)
 
