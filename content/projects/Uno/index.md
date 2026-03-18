@@ -11,14 +11,15 @@ layout: "simple"
 
 <hr class="bold-divider">
 
-- [Indtroduction](#introduction)
+- [Introduction](#introduction)
 - [Design](#design)
 - [Machining](#machining)
 - [3D Printing](#3d-printing)
 - [Electronics](#electronics)
 - [Tuning](#tuning)
-- [Switching Gears: New Electronics](#switching-gears-new-electronics)
+- [Switching Gears New Electronics](#switching-gears-new-electronics)
 - [Ryobification](#ryobification)
+- [ICE UNICYCLE](#ice-unicycle)
 
 <hr class="bold-divider">
 
@@ -121,3 +122,17 @@ Lithium ion batteries are perhaps not the safest technology. Fortunately, batter
 Ryobi batteries are cheap but still UL certified. With my new access to free formlabs printing, I built a new sls printed shell with built in ryobi battery holders. 
 
 {{< screenshot src="inthesun.jpg" alt="" >}}
+
+<hr class="blue-divider">
+
+## ICE UNICYCLE
+
+YOU CAN RIDE A UNICYCLE ON A LAKE
+{{< youtubeLite id="K3bdc7rH6AU" label="Ice Unicycle" >}}
+
+I'm certainly never the best ice fisherman on the lake. I am, however, the only one with a unicycle.
+All I did to make this happen was add some studs. Other than the patches of slush, ice is basically the perfect unicycling surface.
+
+{{< screenshot src="ice_unicycle.jpg" alt="Unicycle on ice" >}}
+
+This is out on spy pond in Arlington.

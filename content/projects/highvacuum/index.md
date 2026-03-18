@@ -13,9 +13,16 @@ layout: "simple"
 
 - [Introduction](#introduction)
 - [Equipment Aquisition](#equipment-aquisition)
+  - [Turbo pumps](#turbo-pumps)
+  - [Roughing Pump](#roughing-pump)
+  - [Everything Else](#everything-else)
 - [Plumbing](#plumbing)
 - [Control Box](#control-box)
 - [Physical Vapor Deposition](#physical-vapor-deposition)
+  - [Intro to PVD](#intro-to-pvd)
+  - [Chamber](#chamber)
+  - [HIGH CURRENT](#high-current)
+  - [Results](#results)
 
 <hr class="bold-divider">
 
@@ -26,16 +33,14 @@ layout: "simple"
 <div class="blue-highlight">
 
 {{< columns >}}
-###
 I've always tended to collect pumps. I'm not entirely sure what motivates my interests in fluid moving devices, but having a large collection of pumps on hand has often been useful. Creating a high vacuum environment, that is down to somewhere around \\(1.31578947 × 10^{-8}\\) atmospheres, is something of the ultimate challenge in pumping. Down past \\(10^{-3}\\) torr or so, gas stops behaving like fluid and starts behaving like a bunch of particles bouncing around without ever touching each other and pumping has to get a bit more creative. There's also the issue of offgassign, where something like a fingerprint or a material with low vapor pressure like tin or most plastics evaporates enough to affect the vacuum.
 
 <!--divider-->
 
-###
 That said, high vacuum is useful for a variety of experiments. Creating metallic coating through physical vapor deposition (more on that later), creating nonreactive environments for high voltage equipment, etc all require high vacuum. I already had a surprising collection of vacuum equipment on hand, so when my friend Chris suggested we do some high vacuum projects I said I had just the thing.
 {{< /columns >}}
 
-{{< screenshot src="featured.jpg" alt="Example image description" >}}
+{{< screenshot src="intro.jpg" alt="Example image description" >}}
 </div>
 
 <hr class="blue-divider">
@@ -93,14 +98,12 @@ graph TD
 {{< /mermaid >}}
 
 {{< columns >}}
-###
 - Roughing Pump: Edwards Rotary Vane Pump brings the system down to around \\(10^{-3}\\) Torr
 - Oil Trap: Prevents oil vapor from making it from the roughing pump into the rest of the chamber. Basically just a fancy holder for dessicant.
 - Pirani Gauge: uses the thermal conductivity of gas to determine pressure. Only good down to rough vacuum.
 - Vacuum Valve: pneumatically actuated valves with stainless steel belows for sealing. Allows the vacuum chamber to be isolated from the roughing pump. This way the turbo pump can be kept at vacuum to maintain cleanliness.
 <!--divider-->
 
-###
 - Turbo Pump: takes the system down to (theoretically) around \\(10^{-7})\\ Torr, practicaly gets me down to around \\(5e-5\\) Torr. Must be run in vacuum.
 - Vent: allows for slow venting of the chamber
 - Cold Cathode Gauge: must be operated in vacuum, but good for measuring pressures down into high vacuum
@@ -173,24 +176,21 @@ This is then controllable remotely through a GUI.
 ### Intro to PVD    
 
 {{< columns >}}
-###
+
 Physical vapor deposition (pvd) is the process of evaporating materials with a heating element to produce a vapor that can be deposited on a surface to create a thin coating. One recognizable use of this is first surface mirrors, which are glass sheets that have a layer of aluminum deposited on he surface. Of course, if you just got and vaporize aluminum in atmosphere you'll just get some aluminum oxide soot floating around in the air. The key is the nonreactive atmosphere under vacuum and something called mean free path.
 
 <!--divider-->
 
-### 
  This is the average distanace a particle can travel without coming into contact with another particle and changing direction. In air, this is very short. If you vaporize aluminum, the aluminum particles will immediately contact the particles of gas that make up the air. In vacuum, this is not the case and the aluminum vapor can travel several inches before eventually contacting the walls of the chamber or the target. If the target is a compatible and properly prepared substate, the aluminum with attach to the surface and create an nearly perfect surface. This makes PVD a line of sight operation, only objects "visible" from the point of origin of the vapor will actually be coated. The aluminum won't change direction or coat around corners. 
 {{< /columns >}}
 
 ---
 ### Chamber
 {{< columns >}}
-### 
 Most rubber won't hold up to high vacuum without offgassing. One exception is viton. The green orings you see are made of this material. The chamber connects to the flat plate on which the vacuum is mounted with a sealing oring. Then a heavy wall borosilicate glass tube is sandwitched between two machined aluminum plates and bolted in place with plastic screws for electrical isolation. 
 
 <!--divider-->
 
-### 
 The top aluminum plate I machined at MITERS on a manual mill on a rotary table. The lower plate was made in China through JLCPCB. I'm very happy with the outsourced machining, it was remarkably affordable and the results are good. 
 {{< /columns >}}
 

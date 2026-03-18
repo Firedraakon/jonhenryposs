@@ -1,0 +1,10 @@
+# Ignore generated build output
+/public/
+/resources/
+
+# Ignore browser/temp download artifacts
+*.crdownload
+
+# Ignore OS/IDE files
+.DS_Store
+Thumbs.db

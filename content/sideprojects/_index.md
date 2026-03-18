@@ -1,6 +1,6 @@
 ---
 title: "Side Projects"
-description: "In depth showcase of projects"
+description: "Less depth showcase of projects"
 slug: sideprojects
 
 cascade:
