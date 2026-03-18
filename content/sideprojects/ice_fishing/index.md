@@ -4,7 +4,7 @@ weight: 1
 draft: false
 description: "Example Description"
 date: 2026-02-01
-slug: "vases"
+slug: "ice"
 tags: ["Ice", "Fishing", "Auger"]
 layout: "simple"
 ---

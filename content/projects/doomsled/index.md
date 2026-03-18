@@ -29,7 +29,7 @@ This is the MkII build; see the original [Dane Kouttron](https://transistor-man.
 
 MITERS has historically done an occasional frozen lake adventure, but in 2023 there hadn't been one for years. The initial pitch for a new generation of ice vehicles was an ice boat, but that eventually evolved into an ice luge. The Doomsled MkII is loosely inspired by the original Doomsled, but moved away from certain speed/safety limiting features like the face-in-the-direction-of-travel. The end result is something of a cross between an ice luge and a recumbent tadpole tricycle.
 
-Steerign is foot controlled through a bogey, throttle and (the suggestions of) brakes are applied through grips at the seat. Also, yes that's an MBTA seat. 
+Steering is foot controlled through a bogey, throttle and (the suggestions of) brakes are applied through grips at the seat. Also, yes that's an MBTA seat. 
 
 {{< screenshot src="doomsledmodern.jpg" alt="Example image description" >}}
 
